@@ -1,4 +1,4 @@
-# vue-shop
+# azashop
 
 ## Project setup
 ```

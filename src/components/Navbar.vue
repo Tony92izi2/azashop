@@ -28,7 +28,96 @@
       </li>     
        <li class="nav-item">
         <router-link class="nav-link" to="userLogin">userLogin</router-link>
-      </li>       
+      </li> 
+      <li class="nav-item">
+        <router-link class="nav-link" to="Smartphones, Tablettes & Gadgets">Smartphones, Tablettes & Gadgets</router-link>
+      </li> 
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Alimentation
+        </a>
+        <div class="dropdown-menu" aria-labelledby="Alimentation">
+          <a class="dropdown-item" href="#">Boisson</a>
+          <a class="dropdown-item" href="#">Boites de conserve</a>
+          <a class="dropdown-item" href="#">Charcuterie</a>
+          <a class="dropdown-item" href="#">Epices-Condiments-Assaisonnements</a>
+          <a class="dropdown-item" href="#">Lait-Sucre</a>
+          <a class="dropdown-item" href="#">Riz-Pâtes</a>
+          <a class="dropdown-item" href="#">Santé & Beauté</a>
+          <div class="dropdown-divider"></div>
+        </div>
+      </li>   
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Electroménagers
+        </a>
+        <div class="dropdown-menu" aria-labelledby="Electroménagers">
+          
+          <a class="dropdown-item" href="#">Gros Electroménagers</a>
+          <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Gros Electroménagers
+        </a>
+        <div class="dropdown-menu" aria-labelledby="Gros ">
+          
+          <a class="dropdown-item" href="#">Climatiseurs</a>
+            
+          <div class="dropdown-divider"></div>
+        </div>
+      </li>  
+            
+          <a class="dropdown-item" href="#">Petits Electroménagers</a>
+          <div class="dropdown-divider"></div>
+        </div>
+      </li>  
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Informatique
+        </a>
+        <div class="dropdown-menu" aria-labelledby="Informatique">
+          <a class="dropdown-item" href="#">Composants-Périphériques</a>
+          <a class="dropdown-item" href="#">Impression-Bureautique</a>
+          <a class="dropdown-item" href="#">Stockage-Réseau</a>
+          <div class="dropdown-divider"></div>
+        </div>
+      </li>   
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Mode
+        </a>
+        <div class="dropdown-menu" aria-labelledby="Mode">
+          <a class="dropdown-item" href="#">Accessoire de mode</a>
+          <a class="dropdown-item" href="#">Mode femme</a>
+          <a class="dropdown-item" href="#">Mode homme</a>
+          <a class="dropdown-item" href="#">Mode enfant</a>
+          <div class="dropdown-divider"></div>
+        </div>
+      </li> 
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Meuble Déco
+        </a>
+        <div class="dropdown-menu" aria-labelledby="Meuble Déco">
+          <a class="dropdown-item" href="#">Armoires</a>
+          <a class="dropdown-item" href="#">Bureau & Rangement</a>
+          <a class="dropdown-item" href="#">Canapés</a>
+          <a class="dropdown-item" href="#">Coiffeuses</a>
+          <a class="dropdown-item" href="#">Décoration</a>
+          <a class="dropdown-item" href="#">Lits</a>
+          <a class="dropdown-item" href="#">Luminaires</a>
+          <a class="dropdown-item" href="#">Tables</a>
+          <a class="dropdown-item" href="#">Tapis</a>
+          <div class="dropdown-divider"></div>
+        </div>
+      </li> 
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Sports & Loisirs
+        </a>
+        <div class="dropdown-menu" aria-labelledby="Sports & Loisirs">
+          <div class="dropdown-divider"></div>
+        </div>
+      </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Dropdown
